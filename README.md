@@ -3,6 +3,8 @@
 
 [![Build Status](https://secure.travis-ci.org/gabrielfalcao/lettuce.png)](http://travis-ci.org/gabrielfalcao/lettuce)
 
+![logo](_public/assets/images/logo.png)
+
 ## On release names
 
 Lettuce release names will be inspired by any green stuff.
